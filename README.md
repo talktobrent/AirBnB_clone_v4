@@ -1,5 +1,14 @@
 <img src="https://github.com/jarehec/AirBnB_clone_v3/blob/master/dev/HBTN-hbnb-Final.png" width="160" height=auto />
 
+# AirBnB Clone: Phase # 4
+
+Implementation of dynamic web content via API, JQuery, and Flask
+
+### Authors:
+- Nicole Swanson
+- Brent Janski
+
+
 # AirBnB Clone: Phase # 3
 
 : API with Swagger
