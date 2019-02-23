@@ -25,6 +25,7 @@ ${place.number_bathrooms} Bathroom
 </div>
 </div>
 <div class="description">
+<br />
 ${place.description}
 </div>
 </article>`;
