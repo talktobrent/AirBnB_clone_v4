@@ -1,5 +1,6 @@
 $(document).ready(function () {
   let dict = {};
+  $('input:checkbox').css("margin-right", "10px");
   $('input:checkbox').change(function () {
     if ($(this).is(':checked')) {
       dict[$(this).attr('data-name')] = $(this).attr('data-id');
