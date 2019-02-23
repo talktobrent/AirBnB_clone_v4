@@ -12,3 +12,15 @@ header {
 	width: 100%;
 	border-bottom: 1px solid #CCCCCC;
 }
+#api_status {
+	margin-right: 30px;
+	width: 40px;
+	border-radius: 50%;
+	position: relative;
+	float: right;
+	top: 50%;
+	transform: translateY(-50%);
+	background-color: #cccccc;
+	height: 40px;
+}
+
