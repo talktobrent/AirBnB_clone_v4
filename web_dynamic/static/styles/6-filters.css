@@ -71,6 +71,10 @@
 .container .filters .amenities:hover .popover {
 	display: list-item;
 }
+.amenities h4 {
+	white-space: nowrap;
+	overflow: hidden;
+}
 
 .container .filters .popover {
 	max-height: 300px;
