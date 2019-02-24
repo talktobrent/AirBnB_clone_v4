@@ -2,7 +2,10 @@
 
 # AirBnB Clone: Phase # 4
 
-Implementation of dynamic web content via API, JQuery, and Flask
+Implementation of client side JavaScript:
+-loads checkboxes for amenities list
+-watches for clicked checkboxes, shows list in amenities bar
+-searches for places via currently clicked amenities
 
 ### Authors:
 - Nicole Swanson
