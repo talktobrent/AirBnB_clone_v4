@@ -229,6 +229,8 @@ github repo
 * Kimberly Wong, [kjowong](https://github.com/kjowong) | [@kjowong](https://twitter.com/kjowong) | [kjowong@gmail.com](kjowong@gmail.com)
 * Carrie Ybay, [hicarrie](https://github.com/hicarrie) | [@hicarrie_](https://twitter.com/hicarrie_)
 * Jared Heck, [jarehec](https://github.com/jarehec) | [@jarehec](https://twitter.com/jarehec)
+* Nicole Swanson, [thenicopixie](https://github.com/thenicopixie) | [@Nicolette_Swan](https://twitter.com/Nicolette_Swan)
+* Brent Janski, [talktobrent](https://github.com/talktobrent) | [@swcosnow](https://twitter.com/swcosnow)
 
 ## License
 
